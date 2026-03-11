@@ -1,0 +1,47 @@
+{
+  "novel_id": "default",
+  "style": "",
+  "genre": "modern_crime",
+  "characters": {
+    "林奕": {
+      "name": "林奕",
+      "gender": "male",
+      "age": "年轻男性，20多岁",
+      "appearance": "年轻男性，20多岁，短黑发，棕色眼睛，戴眼镜，身材中等，穿着休闲装，白色T恤和蓝色牛仔裤，表情紧张，站在老旧公寓楼的室内。",
+      "appearance_en": "1boy, young man, short black hair, brown eyes, wearing glasses, average build, casual wear, white t-shirt, blue jeans, nervous expression, standing indoors, old apartment building background",
+      "personality": "有点烦躁，经济拮据，单身，对异常事物感到怀疑和好奇，胆小但又有点勇敢和负责，在危机中展现出机智和善良。",
+      "voice": "zh_male_shaonianzixin_uranus_bigtts",
+      "first_episode": 1
+    },
+    "白小小": {
+      "name": "白小小",
+      "gender": "female",
+      "age": "外表20出头的年轻女性，实际年龄不详",
+      "appearance": "外表20出头的年轻女性，长长的黑发披肩，皮肤白皙发光，眼睛又大又圆，像黑葡萄，但会发出绿莹莹的光，睫毛很长。身材纤细，腰肢苗条。穿着一件优雅的白色长袖连衣裙，领口系到最高，面料轻薄飘逸。表情平静而神秘，有时会露出微笑，带着一丝玩味。整体散发着超凡脱俗的美感，并伴有微弱的光晕。",
+      "appearance_en": "1girl, young woman, early 20s, long black hair, flowing hair, large round eyes, glowing green eyes, black pupils, very long eyelashes, pale skin, glowing skin, slim build, slender waist, elegant white long-sleeved dress, high neck, flowing fabric, mysterious smile, calm expression, ethereal beauty, subtle glowing aura, standing in moonlight, old well in background",
+      "personality": "美丽神秘，声音软糯，气质冷静，偶尔带点茫然和玩味。拥有非人的力量和身份，对人类世界有一定了解，但又保持着距离感。有自己的任务和原则，不滥杀无辜，甚至会保护人类。内心可能有些孤单。",
+      "voice": "zh_female_xiaohe_uranus_bigtts",
+      "first_episode": 1
+    }
+  },
+  "sd_appearance_cache": {},
+  "outfit_dna": {},
+  "reference_images": {
+    "白小小": {
+      "tri_front": {
+        "success": false,
+        "error": "连接失败"
+      },
+      "tri_side": "./output/tasks\\测试3\\characters\\白小小\\tri_side.png",
+      "tri_back": "./output/tasks\\测试3\\characters\\白小小\\tri_back.png"
+    },
+    "林奕": {
+      "tri_front": {
+        "success": false,
+        "error": "连接失败"
+      },
+      "tri_side": "./output/tasks\\测试3\\characters\\林奕\\tri_side.png",
+      "tri_back": "./output/tasks\\测试3\\characters\\林奕\\tri_back.png"
+    }
+  }
+}

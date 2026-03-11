@@ -1,0 +1,42 @@
+{
+  "novel_id": "default",
+  "style": "",
+  "genre": "modern_crime",
+  "characters": {
+    "林奕": {
+      "name": "林奕",
+      "gender": "male",
+      "age": "young man",
+      "appearance": "一个二十多岁的年轻男性，留着略显凌乱的黑色短发，棕色眼睛。他身材中等，常穿一件褪色的印花T恤和旧牛仔裤。他的独特之处在于因高度近视而常戴眼镜，尽管有时会忘记戴，这让他看起来略显焦虑或眯眼。",
+      "appearance_en": "A young man in his late 20s with short, slightly messy black hair and brown eyes. He has an average build and often wears a faded graphic T-shirt and worn jeans. His unique feature is that he frequently wears glasses due to severe myopia, though he sometimes forgets them, leading to a slightly anxious or squinting expression.",
+      "personality": "curious, a bit timid, kind-hearted, pragmatic",
+      "voice": "zh_male_taocheng_uranus_bigtts",
+      "first_episode": 1
+    },
+    "白小小": {
+      "name": "白小小",
+      "gender": "female",
+      "age": "young woman",
+      "appearance": "一个二十出头的年轻女性，留着乌黑的长直发，柔顺地披散着。她有一双又大又圆的深棕色眼睛，睫毛极长，偶尔会发出微弱的绿莹莹的光。她身材纤细娇小，体态轻盈，仿佛不食人间烟火。她主要穿着白色裙子：白天是一件长袖高领的白色长裙，夜晚则换成一件更薄、更飘逸的白色吊带裙。她的独特之处在于皮肤极度白皙，在月光下几乎透明发光，声音软糯甜美，并且常带着一丝茫然地歪头看人。",
+      "appearance_en": "A young woman in her early 20s with long, straight, flowing black hair. She has large, round, dark brown eyes with exceptionally long eyelashes that occasionally glow with a faint green light. Her build is slim and petite, with a delicate, almost ethereal presence. She primarily wears white dresses: a long-sleeved, high-necked white maxi dress for daytime, and a thinner, more flowing white slip dress for nighttime. Her unique features include extremely pale, luminous skin that appears almost translucent in moonlight, and a soft, sweet, 'mochi-like' voice; she often tilts her head in a slightly bewildered manner.",
+      "personality": "mysterious, ethereal, powerful, subtly playful",
+      "voice": "zh_female_tianmeitaozi_uranus_bigtts",
+      "first_episode": 1
+    }
+  },
+  "sd_appearance_cache": {},
+  "outfit_dna": {},
+  "reference_images": {
+    "林奕": {
+      "tri_front": "./output\\profiles\\characters\\default\\林奕\\tri_front.png",
+      "tri_side": "./output\\profiles\\characters\\default\\林奕\\tri_side.png",
+      "tri_back": "./output\\profiles\\characters\\default\\林奕\\tri_back.png"
+    },
+    "白小小": {
+      "tri_front": {
+        "success": true,
+        "path": "./output\\profiles\\characters\\default\\白小小\\tri_front"
+      }
+    }
+  }
+}

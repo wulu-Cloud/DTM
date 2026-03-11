@@ -1,0 +1,30 @@
+{
+  "novel_id": "default",
+  "style": "",
+  "genre": "modern_crime",
+  "characters": {
+    "林奕": {
+      "name": "林奕",
+      "gender": "male",
+      "age": "young man",
+      "appearance": "一个年轻男性，留着短而略显凌乱的黑发，棕色的眼睛略带倦意（通常戴着眼镜），体型普通。他通常穿着简单的T恤和牛仔裤，展现出务实休闲的风格。他的独特之处在于尽管高度近视却经常忘记戴眼镜，以及一种普遍略显邋遢但亲切随和的外表。",
+      "appearance_en": "A young man with short, slightly messy black hair, tired brown eyes (often behind glasses), and an average build. He typically wears simple T-shirts and jeans, reflecting a practical, casual style. His unique features include often forgetting his glasses despite being highly myopic, and a generally slightly disheveled but relatable appearance.",
+      "personality": "警惕多疑, 略显怂包, 善良, 务实",
+      "voice": "zh_male_shaonianzixin_uranus_bigtts",
+      "first_episode": 1
+    },
+    "白小小": {
+      "name": "白小小",
+      "gender": "female",
+      "age": "young woman",
+      "appearance": "一位美得惊人的年轻女性，一头乌黑的长发直顺地披散在肩头。她拥有一双又大又圆的深棕色眼睛，睫毛浓密修长，有时会发出淡淡的绿光。她的皮肤极其苍白，几近透明，仿佛会发光。她身材纤细娇小，腰肢纤细，体态轻盈如羽，散发着一种空灵的气质。她标志性的服饰是各式各样的白色连衣裙，即使在炎热天气也常是长袖高领款式，赋予她一种超凡脱俗的优雅。身上隐约散发着一种淡淡的、类似河水或鱼的腥味。",
+      "appearance_en": "A strikingly beautiful young woman with long, straight black hair cascading over her shoulders. She has large, round, dark brown eyes that can glow a faint green, framed by long, thick eyelashes. Her skin is extremely pale, almost translucent, and seems to glow. She possesses a slim and petite, almost ethereal build, with a delicate waist. Her iconic attire consists of various white dresses, often long-sleeved and high-necked, even in warm weather, giving her an otherworldly and elegant appearance. A faint, subtle scent, reminiscent of a river or fish, subtly clings to her.",
+      "personality": "神秘, 强大, 沉着, 略带天真, 孤单",
+      "voice": "zh_female_tianmeixiaoyuan_uranus_bigtts",
+      "first_episode": 1
+    }
+  },
+  "sd_appearance_cache": {},
+  "outfit_dna": {},
+  "reference_images": {}
+}

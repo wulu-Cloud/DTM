@@ -1,0 +1,452 @@
+{
+  "zh_female_xiaohe_uranus_bigtts": {
+    "label": "小何",
+    "gender": "female",
+    "style": "温柔知性",
+    "quality": "high",
+    "tags": [
+      "温柔",
+      "知性",
+      "旁白"
+    ]
+  },
+  "zh_female_vv_uranus_bigtts": {
+    "label": "Vivi",
+    "gender": "female",
+    "style": "活泼甜美",
+    "quality": "high",
+    "tags": [
+      "活泼",
+      "甜美",
+      "少女"
+    ]
+  },
+  "zh_female_sajiaoxuemei_uranus_bigtts": {
+    "label": "撒娇学妹",
+    "gender": "female",
+    "style": "撒娇可爱",
+    "quality": "high",
+    "tags": [
+      "撒娇",
+      "可爱",
+      "少女"
+    ]
+  },
+  "zh_female_linjianvhai_uranus_bigtts": {
+    "label": "邻家女孩",
+    "gender": "female",
+    "style": "清新自然",
+    "quality": "high",
+    "tags": [
+      "清新",
+      "自然",
+      "邻家"
+    ]
+  },
+  "zh_female_kefunvsheng_uranus_bigtts": {
+    "label": "暖阳女声",
+    "gender": "female",
+    "style": "温暖阳光",
+    "quality": "high",
+    "tags": [
+      "温暖",
+      "阳光"
+    ]
+  },
+  "zh_female_cancan_uranus_bigtts": {
+    "label": "知性灿灿",
+    "gender": "female",
+    "style": "知性大方",
+    "quality": "high",
+    "tags": [
+      "知性",
+      "大方",
+      "旁白"
+    ]
+  },
+  "zh_female_liuchangnv_uranus_bigtts": {
+    "label": "流畅女声",
+    "gender": "female",
+    "style": "流畅自然",
+    "quality": "high",
+    "tags": [
+      "流畅",
+      "自然",
+      "旁白"
+    ]
+  },
+  "zh_female_meilinvyou_uranus_bigtts": {
+    "label": "魅力女友",
+    "gender": "female",
+    "style": "温柔魅力",
+    "quality": "high",
+    "tags": [
+      "温柔",
+      "魅力",
+      "女友"
+    ]
+  },
+  "zh_female_jitangnv_uranus_bigtts": {
+    "label": "鸡汤女",
+    "gender": "female",
+    "style": "治愈温暖",
+    "quality": "high",
+    "tags": [
+      "治愈",
+      "温暖",
+      "鸡汤"
+    ]
+  },
+  "zh_female_mizai_uranus_bigtts": {
+    "label": "黑猫侦探社咪仔",
+    "gender": "female",
+    "style": "可爱俏皮",
+    "quality": "high",
+    "tags": [
+      "可爱",
+      "俏皮",
+      "萝莉"
+    ]
+  },
+  "zh_female_yingyujiaoxue_uranus_bigtts": {
+    "label": "Tina老师",
+    "gender": "female",
+    "style": "专业亲和",
+    "quality": "high",
+    "tags": [
+      "专业",
+      "亲和",
+      "教学"
+    ]
+  },
+  "zh_female_shuangkuaisisi_uranus_bigtts": {
+    "label": "爽快思思",
+    "gender": "female",
+    "style": "爽快干练",
+    "quality": "high",
+    "tags": [
+      "爽快",
+      "干练",
+      "御姐"
+    ]
+  },
+  "zh_female_tianmeitaozi_uranus_bigtts": {
+    "label": "甜美桃子",
+    "gender": "female",
+    "style": "甜美少女",
+    "quality": "high",
+    "tags": [
+      "甜美",
+      "少女"
+    ]
+  },
+  "zh_female_qingxinnvsheng_uranus_bigtts": {
+    "label": "清新女声",
+    "gender": "female",
+    "style": "清新文艺",
+    "quality": "high",
+    "tags": [
+      "清新",
+      "文艺"
+    ]
+  },
+  "zh_female_xiaoxue_uranus_bigtts": {
+    "label": "儿童绘本",
+    "gender": "female",
+    "style": "童真可爱",
+    "quality": "high",
+    "tags": [
+      "童真",
+      "儿童",
+      "绘本"
+    ]
+  },
+  "zh_female_tianmeixiaoyuan_uranus_bigtts": {
+    "label": "甜美小源",
+    "gender": "female",
+    "style": "甜美温柔",
+    "quality": "high",
+    "tags": [
+      "甜美",
+      "温柔",
+      "少女"
+    ]
+  },
+  "zh_female_peiqi_uranus_bigtts": {
+    "label": "佩奇猪",
+    "gender": "female",
+    "style": "萝莉可爱",
+    "quality": "high",
+    "tags": [
+      "萝莉",
+      "可爱",
+      "童声"
+    ]
+  },
+  "zh_male_shaonianzixin_uranus_bigtts": {
+    "label": "少年梓辛",
+    "gender": "male",
+    "style": "少年清朗",
+    "quality": "high",
+    "tags": [
+      "少年",
+      "清朗",
+      "阳光"
+    ]
+  },
+  "zh_male_liufei_uranus_bigtts": {
+    "label": "刘飞",
+    "gender": "male",
+    "style": "成熟稳重",
+    "quality": "high",
+    "tags": [
+      "成熟",
+      "稳重",
+      "旁白"
+    ]
+  },
+  "zh_male_ruyayichen_uranus_bigtts": {
+    "label": "儒雅逸辰",
+    "gender": "male",
+    "style": "儒雅磁性",
+    "quality": "high",
+    "tags": [
+      "儒雅",
+      "磁性",
+      "霸总"
+    ]
+  },
+  "zh_male_dayi_uranus_bigtts": {
+    "label": "大壹",
+    "gender": "male",
+    "style": "沉稳大气",
+    "quality": "high",
+    "tags": [
+      "沉稳",
+      "大气",
+      "旁白"
+    ]
+  },
+  "zh_male_sunwukong_uranus_bigtts": {
+    "label": "猴哥",
+    "gender": "male",
+    "style": "霸气张扬",
+    "quality": "high",
+    "tags": [
+      "霸气",
+      "张扬",
+      "反派"
+    ]
+  },
+  "zh_male_taocheng_uranus_bigtts": {
+    "label": "陶成",
+    "gender": "male",
+    "style": "温润如玉",
+    "quality": "high",
+    "tags": [
+      "温润",
+      "斯文"
+    ]
+  },
+  "zh_male_m191_uranus_bigtts": {
+    "label": "云舟",
+    "gender": "male",
+    "style": "低沉磁性",
+    "quality": "high",
+    "tags": [
+      "低沉",
+      "磁性"
+    ]
+  },
+  "zh_male_sophie_uranus_bigtts": {
+    "label": "魅力苏菲",
+    "gender": "male",
+    "style": "独特魅力",
+    "quality": "high",
+    "tags": [
+      "魅力",
+      "独特"
+    ]
+  },
+  "en_female_stokie_uranus_bigtts": {
+    "label": "Stokie",
+    "gender": "female",
+    "style": "英文女声",
+    "quality": "high",
+    "tags": [
+      "英文",
+      "女声"
+    ]
+  },
+  "en_female_dacey_uranus_bigtts": {
+    "label": "Dacey",
+    "gender": "female",
+    "style": "英文女声",
+    "quality": "high",
+    "tags": [
+      "英文",
+      "女声"
+    ]
+  },
+  "en_male_tim_uranus_bigtts": {
+    "label": "Tim",
+    "gender": "male",
+    "style": "英文男声",
+    "quality": "high",
+    "tags": [
+      "英文",
+      "男声"
+    ]
+  },
+  "zh_female_santongyongns_saturn_bigtts": {
+    "label": "流畅女声S",
+    "gender": "female",
+    "style": "流畅自然",
+    "quality": "high",
+    "tags": [
+      "流畅",
+      "saturn"
+    ]
+  },
+  "zh_female_meilinvyou_saturn_bigtts": {
+    "label": "魅力女友S",
+    "gender": "female",
+    "style": "温柔魅力",
+    "quality": "high",
+    "tags": [
+      "魅力",
+      "saturn"
+    ]
+  },
+  "zh_female_mizai_saturn_bigtts": {
+    "label": "咪仔S",
+    "gender": "female",
+    "style": "可爱俏皮",
+    "quality": "high",
+    "tags": [
+      "可爱",
+      "saturn"
+    ]
+  },
+  "saturn_zh_female_cancan_tob": {
+    "label": "知性灿灿S",
+    "gender": "female",
+    "style": "知性大方",
+    "quality": "high",
+    "tags": [
+      "知性",
+      "saturn"
+    ]
+  },
+  "zh_female_jitangnv_saturn_bigtts": {
+    "label": "鸡汤女S",
+    "gender": "female",
+    "style": "治愈温暖",
+    "quality": "high",
+    "tags": [
+      "治愈",
+      "saturn"
+    ]
+  },
+  "zh_male_dayi_saturn_bigtts": {
+    "label": "大壹S",
+    "gender": "male",
+    "style": "沉稳大气",
+    "quality": "high",
+    "tags": [
+      "沉稳",
+      "saturn"
+    ]
+  },
+  "zh_female_xueayi_saturn_bigtts": {
+    "label": "儿童绘本S",
+    "gender": "female",
+    "style": "童真可爱",
+    "quality": "high",
+    "tags": [
+      "童真",
+      "saturn"
+    ]
+  },
+  "saturn_zh_female_wenwanshanshan_cs_tob": {
+    "label": "温婉珊珊",
+    "gender": "female",
+    "style": "温婉柔和",
+    "quality": "high",
+    "tags": [
+      "温婉",
+      "saturn"
+    ]
+  },
+  "saturn_zh_female_reqingaina_cs_tob": {
+    "label": "热情艾娜",
+    "gender": "female",
+    "style": "热情开朗",
+    "quality": "high",
+    "tags": [
+      "热情",
+      "saturn"
+    ]
+  },
+  "saturn_zh_female_keainvsheng_tob": {
+    "label": "可爱女生",
+    "gender": "female",
+    "style": "可爱甜美",
+    "quality": "high",
+    "tags": [
+      "可爱",
+      "saturn"
+    ]
+  },
+  "saturn_zh_male_shuanglangshaonian_tob": {
+    "label": "爽朗少年",
+    "gender": "male",
+    "style": "爽朗阳光",
+    "quality": "high",
+    "tags": [
+      "爽朗",
+      "少年",
+      "saturn"
+    ]
+  },
+  "saturn_zh_female_tiaopigongzhu_tob": {
+    "label": "调皮公主",
+    "gender": "female",
+    "style": "调皮活泼",
+    "quality": "high",
+    "tags": [
+      "调皮",
+      "saturn"
+    ]
+  },
+  "zh_male_ruyayichen_saturn_bigtts": {
+    "label": "儒雅逸辰S",
+    "gender": "male",
+    "style": "儒雅磁性",
+    "quality": "high",
+    "tags": [
+      "儒雅",
+      "saturn"
+    ]
+  },
+  "saturn_zh_male_tiancaitongzhuo_tob": {
+    "label": "天才同桌",
+    "gender": "male",
+    "style": "聪明活泼",
+    "quality": "high",
+    "tags": [
+      "聪明",
+      "saturn"
+    ]
+  },
+  "saturn_zh_female_qingyingduoduo_cs_tob": {
+    "label": "轻盈朵朵",
+    "gender": "female",
+    "style": "轻盈灵动",
+    "quality": "high",
+    "tags": [
+      "轻盈",
+      "saturn"
+    ]
+  }
+}

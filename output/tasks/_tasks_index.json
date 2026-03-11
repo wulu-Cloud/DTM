@@ -1,0 +1,32 @@
+[
+  {
+    "name": "测试",
+    "display_name": "测试",
+    "dir": "./output/tasks\\测试",
+    "created_at": "2026-03-08 22:29:13",
+    "novel_path": "C:/Users/五路/Desktop/novel_to_video - 最新，从这里开始 - 副本 (12)/测试.txt",
+    "total_episodes": 0,
+    "current_step": 0,
+    "status": "importing"
+  },
+  {
+    "name": "测试2",
+    "display_name": "测试2",
+    "dir": "./output/tasks\\测试2",
+    "created_at": "2026-03-10 22:04:49",
+    "novel_path": "C:/Users/五路/Desktop/novel_to_video - 最新，从这里开始 - 副本 (12)/测试.txt",
+    "total_episodes": 0,
+    "current_step": 0,
+    "status": "importing"
+  },
+  {
+    "name": "测试3",
+    "display_name": "测试3",
+    "dir": "./output/tasks\\测试3",
+    "created_at": "2026-03-10 22:10:08",
+    "novel_path": "C:/Users/五路/Desktop/novel_to_video - 最新，从这里开始 - 副本 (12)/测试.txt",
+    "total_episodes": 0,
+    "current_step": 0,
+    "status": "importing"
+  }
+]
